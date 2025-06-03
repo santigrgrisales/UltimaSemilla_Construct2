@@ -12,7 +12,11 @@ Las principales áreas de enfoque para futuras actualizaciones incluyen:
 * **Refinamiento del Diseño:** Ajustes en el diseño de niveles, la progresión del juego y la experiencia de usuario para una mayor inmersión y coherencia.
 * **Optimización de Rendimiento:** Trabajo continuo en la mejora de la fluidez y el rendimiento del juego.
 
+  
+
 ## Jugar la Versión Actual
+
+**¡Para una mejor experiencia, te recomendamos jugar desde Itch.io!**
 
 Puedes probar la versión beta disponible de "Última Semilla" en las siguientes plataformas:
 
