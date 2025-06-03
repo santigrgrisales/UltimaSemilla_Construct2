@@ -7,6 +7,7 @@
 
 Las principales áreas de enfoque para futuras actualizaciones incluyen:
 
+* **Pulido de Mecánicas y Funcionalidades:** Perfeccionar las mecánicas de juego existentes y añadir funcionalidades necesarias para completar la experiencia.
 * **Mejoras Visuales:** Optimización y pulido de los gráficos, efectos visuales y la estética general del juego.
 * **Refinamiento del Diseño:** Ajustes en el diseño de niveles, la progresión del juego y la experiencia de usuario para una mayor inmersión y coherencia.
 * **Optimización de Rendimiento:** Trabajo continuo en la mejora de la fluidez y el rendimiento del juego.
